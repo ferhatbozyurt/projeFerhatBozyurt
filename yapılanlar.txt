@@ -1,0 +1,4 @@
+-admin için veri tabaný oluþturuldu 
+-admin için kayýt ol butonlarý oluþturuldu
+-yeni kayýt için isim þifre ve mail girdikten sonra sonuçlar direk veri tabanýna otomatik iþler hale gelmesi için kdo yazýldý
+(NOT: sürüm problemini çözemediðim için yazýlanlar veri tabanýna iþelnilmiyo, hafta içi çözücem prblemi hocam)
